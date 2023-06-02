@@ -1,0 +1,9 @@
+{
+	"name": "abisover",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4123bfe0-35b7-42f3-bbde-75391d8413ff",
+		"tenantId": "c724545a-25f4-4a3a-9b83-146f10d6d704"
+	}
+}
